@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * get_help - function that retrieves help messages according builtin
@@ -31,3 +31,4 @@ int get_help(data_shell *datash)
 	datash->status = 0;
 	return (1);
 }
+
